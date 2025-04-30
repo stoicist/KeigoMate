@@ -1,0 +1,1 @@
+console.log("Requesting keigomate background script...");

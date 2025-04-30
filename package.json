@@ -1,0 +1,13 @@
+{
+  "name": "keigomate",
+  "private": true,
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "chrome-types": "^0.1.349"
+  }
+}
